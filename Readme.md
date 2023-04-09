@@ -1,0 +1,1 @@
+This project is aimed to create an open source application where people has power to create metaverse objects using text or speech and sell them on Platforms like opensea. So inviting all metaverse developer, block chain experts to build this application and make it a reality.
